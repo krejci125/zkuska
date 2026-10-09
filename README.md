@@ -2,7 +2,8 @@
 school 
 
 ##nadpis 2 urovne
-**tucny text**
+**tucny text** 
+*kurziva*
 
 
 ###nadpis 3 urovne
@@ -11,6 +12,9 @@ school
 - je
 - seznam
 
-  1.tohle
-  2.je
-  3. cisloa´vay seznam
+  1. tohle
+  2. je
+  3. s peti
+  4. odrazkami
+
+  6. cisloa´vay seznam
